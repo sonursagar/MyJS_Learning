@@ -7,15 +7,33 @@ in the above line
 some text  > Text between the tag
 </p>       > Closing Tag
 
+SOME OF THE IMPORTANT TAGS
+1)  <head> is the start of the this 
+2)  <meta> is used to display special symbols and characters from different languages correctly 
+3)  <body> is the body of the html 
+4)  <h> is the heading ; Eg <h1>
+5)  <p> is used to add the text as Paragraph
+6)  <strong> can be used to make the text bold
+7)  <em> is used to make text italic
+8)  <li>Item 1</li> csn be used to list
+        <ol> use this before the list to add numbers to the list
+        <ul>use this before the list to add bullets to the list
+9)  <a> can be used to dd link ; but when adding link we have to give the reference link to where it has to redirect to Eg : <a href="https://www.linkedin.com/in/sourabh-sagar/"> You can also connect with me on Linkedin</a>
+        in the above one we can also "target" if we want the link to open in the new tab : Eg :  target="_blank" rel="noopener noreferrer"> 
+10) <img> is used to add image ; Eg <img src="image link">
+        in the image tag add "alt" ; alt is the text which displays if the image doesnt load. eg: <img src="" alt="there is a image here"
+        also after the alt height and width can be added ; eg : <img src="{link}" alt="there is a image here" height="" width = ""
 
-head is the start of the this 
-meta is used to display special symbols and characters from different languages correctly 
 
-basic syntax 
-
+basic syntax
+ 
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <title> testing </title>
 </head>
+<body>
+<h1> test1 </h1>
+</body>
 </html>
