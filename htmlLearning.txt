@@ -1,0 +1,21 @@
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element this link has more information 
+
+
+<p> some text </p>
+in the above line 
+<p>        > Opening Tag
+some text  > Text between the tag
+</p>       > Closing Tag
+
+
+head is the start of the this 
+meta is used to display special symbols and characters from different languages correctly 
+
+basic syntax 
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title> testing </title>
+</head>
+</html>
